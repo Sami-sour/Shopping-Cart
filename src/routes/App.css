@@ -124,6 +124,7 @@ a {
   color: white;
   border: none;
   border-radius: 0.1rem;
+  font-size: 2vmin;
 }
 
 .buy-btn {
@@ -132,6 +133,8 @@ a {
   color: white;
   border: none;
   border-radius: 0.1rem;
+  font-size: 2vmin;
+
 }
 
 .laptop {

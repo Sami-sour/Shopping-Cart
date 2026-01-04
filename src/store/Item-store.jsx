@@ -38,7 +38,6 @@ const CartStoreProvider = ({ children }) => {
   const AddToCart = (item) => {
     setCart((prev) => [...prev, item]);
     setPriceDEtails((prev) => [...prev, item]);
-    console.log(item);
   };
 
   const searchCart = () => {};
